@@ -5,7 +5,7 @@
 <p>To sort an array of size N in ascending order iterate over the array and compare the current element (key) to its predecessor, if the key element is smaller than its predecessor, compare it to the elements before. Move the greater elements one position up to make space for the swapped element.</p>
 
 <ol>
-  <h3>The simple steps of achieving the insertion sort are listed as follows -</h3>h3>
+  <h3>The simple steps of achieving the insertion sort are listed as follows -</h3>
   <li> If the element is the first element, assume that it is already sorted. Return 1.</li>
   <li>Pick the next element, and store it separately in a key.</li>
   <li>Now, compare the key with all elements in the sorted array.</li>
