@@ -15,8 +15,7 @@
           <li>Again, the process is repeated to set the next greater element as the second pointer. And, swap it with another smaller element.</li>
           <li>The process goes on until the second last element is reached.</li>
           <li>Finally, the pivot element is swapped with the second pointer.
-         </li>
-       </ul>
+         </li> </ul>
   </li>
   <li><h4>Divide Subarrays</h4><br/>
   <p>Pivot elements are again chosen for the left and the right sub-parts separately. And, step 2 is repeated.<br/>
