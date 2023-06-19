@@ -18,4 +18,9 @@
          </li>
        </ul>
   </li>
+  <li><h4>Divide Subarrays</h4><br/>
+  <p>Pivot elements are again chosen for the left and the right sub-parts separately. And, step 2 is repeated.<br/>
+    The subarrays are divided until each subarray is formed of a single element. At this point, the array is already sorted.
+  </p>
+  </li>
 </ol>
