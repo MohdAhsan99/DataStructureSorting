@@ -21,3 +21,6 @@
 <p>After two iterations, two least values are positioned at the beginning in a sorted manner</p>
 <h1>10 14 27 33 35 19 42 44</h1>
 <p>The same process is applied to the rest of the items in the array.</p>
+
+
+
