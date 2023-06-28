@@ -26,7 +26,6 @@ public class BubbleSortAssign {
 					a[j]=a[j+1];
 					a[j+1]=temp;
 				}
-				
 			}
 			display(a);
 			
@@ -37,12 +36,9 @@ public class BubbleSortAssign {
 		{
 			System.out.println(a[i]);
 		}
-		
 	}
-
 	public static void main(String[] args) {
 		int arr[]= {7,9,-3,4,5,17,6};
 		BubbleAssign(arr);
 	}
-
 }
