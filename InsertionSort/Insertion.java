@@ -9,7 +9,6 @@ public class Insertion {
 			System.out.println(" " + a[i]);
 		}
 	}
-
 	public static void InsertionAssign(int a[]) 
 	{
 		int key, j, size;
@@ -26,9 +25,7 @@ public class Insertion {
 			a[j + 1] = key;
 		}
 		display(a);
-
 	}
-
 	public static void main(String[] args)
 	{
 		int arr[] = { 7, 5, 4, 6, 3 };
