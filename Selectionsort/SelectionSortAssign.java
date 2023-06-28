@@ -26,11 +26,9 @@ public class SelectionSortAssign {
 			{    
 				if(b[j].getSalary()<min.getSalary())
 				{
-				
 					min=b[j];
 					index=j;
 				}
-				
 			}
 			b[index]=b[i];
 			b[i]=min;
